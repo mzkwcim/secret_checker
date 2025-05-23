@@ -17,4 +17,4 @@ chmod +x .git/hooks/pre-commit
 echo "Skaner sekretów został pomyślnie zainstalowany!"
 Użytkownicy mogliby użyć:
 
-curl -s https://github.com/twoja-organizacja/git-hooks/raw/main/install-hook.sh |
+curl -s [https://github.com/twoja-organizacja/git-hooks/raw/main/install-hook.sh](https://raw.githubusercontent.com/mzkwcim/secret_checker/refs/heads/main/pre-commit.sh?token=GHSAT0AAAAAAC36MF6K3NMINMVZVWT5KLME2BQXZLA) | bash
